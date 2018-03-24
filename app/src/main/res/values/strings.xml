@@ -2,5 +2,5 @@
     <string name="app_name">FindWord</string>
     <string name="action_settings">Postavke</string>
 
-    <string name="txtSearch">Upiši slova</string>
+    <string name="txtLetters">Upiši slova</string>
 </resources>

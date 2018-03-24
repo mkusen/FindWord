@@ -15,7 +15,7 @@
 
 
     <EditText
-        android:id="@+id/txtSearch"
+        android:id="@+id/txtLetters"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="208dp"
@@ -23,7 +23,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
-        android:hint="@string/txtSearch"
+        android:hint="@string/txtLetters"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
